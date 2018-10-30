@@ -1,6 +1,6 @@
 # 技能 #
-PHP Python C#
--
+>PHP Python C#
+
 javascript CSS SCSS vue angular
 -
 MySQL MariaDB PostgreSQL
