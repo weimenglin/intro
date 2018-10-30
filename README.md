@@ -1,11 +1,11 @@
 # 技能 #
->PHP Python C#
->javascript CSS SCSS vue angular
->MySQL MariaDB PostgreSQL
->硬體規劃與架設
->雲端規劃與資料叢集
->API設計與文件
->資料版本控制
++PHP Python C#
++javascript CSS SCSS vue angular
++MySQL MariaDB PostgreSQL
++硬體規劃與架設
++雲端規劃與資料叢集
++API設計與文件
++資料版本控制
 
 ## 任職 ##
 先見基因
