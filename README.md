@@ -1,6 +1,6 @@
 # 技能 #
-+PHP Python C#
-+javascript CSS SCSS vue angular
+* PHP Python C#
+* javascript CSS SCSS vue angular
 +MySQL MariaDB PostgreSQL
 +硬體規劃與架設
 +雲端規劃與資料叢集
